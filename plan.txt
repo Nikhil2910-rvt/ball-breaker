@@ -1,0 +1,12 @@
+create canvas context
+create and draw ball
+create and draw paddle
+cretae bricks
+Draw score
+Add update()-Animate -requestAnimationFrame(cb)
+move paddle
+Keyboard event handlers to move paddle
+move ball
+add wall boundaries
+Increase score when bricks break
+Lose- redraw bricks, reset score
